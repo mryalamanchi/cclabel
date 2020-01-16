@@ -6,7 +6,7 @@
 # Algorithm obtained from "Optimizing Two-Pass Connected-Component Labeling 
 # by Kesheng Wu, Ekow Otoo, and Kenji Suzuki
 #
-
+# This code assumes that the input image has a white background and black objects, on which the algorithm will run on
 from PIL import Image, ImageDraw
 
 import sys
