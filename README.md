@@ -19,5 +19,5 @@ Further details are in the source
   4) If you are using python3 then open `cclabel.py` in a text editor and change the line `#!/usr/bin/python` to `#!/usr/bin/python3`
   5) Now place the image to perform operations on in the current directory along with `cclabel.py`
   6) Now you can run the program in 2 ways:
-    6.1)  ./cclabel.py 'name_of_the_image.filetype'
-    6.2) `python3 cclabel.py 'name_of_the_image.filetype'` or `python cclabel.py 'name_of_the_image.filetype'` depending upon the python version
+    *  ./cclabel.py 'name_of_the_image.filetype'
+    * `python3 cclabel.py 'name_of_the_image.filetype'` or `python cclabel.py 'name_of_the_image.filetype'` depending upon the python version
