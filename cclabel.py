@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 #
 # Implements 8-connectivity connected component labeling
@@ -7,7 +7,7 @@
 # by Kesheng Wu, Ekow Otoo, and Kenji Suzuki
 #
 
-import Image, ImageDraw
+from PIL import Image, ImageDraw
 
 import sys
 import math, random
